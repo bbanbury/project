@@ -1,0 +1,25 @@
+https://www.linkedin.com/jobs2/view/18574880?trk=jobs_home_click_jymbii&refId=caa0544c-ca27-403b-9fe9-a647c4479a08
+
+As a Machine Learning expert on the EC2 team you will play a leading role to build out our scientific infrastructure. Collaborating with other data and machine learning scientists, software engineers and product managers, you will:
+· Create novel, data-driven approaches to improve our product
+· Research and implement novel experimental design and measurement methodologies
+· Leverage large and disparate datasets in strategic analysis for new product strategies and business directions
+
+In EC2, you will implement creative approaches to understand the intricate complexity of cloud computing at scale. This will require design of multivariate experiments, analyzing large quantities of data using the world's leading cloud infrastructure, and using your results to guide the direction of the business. You will challenge yourself and others to constantly come up with better solutions that impact the direction of the entire industry.
+
+EC2 is changing the way the way how IT professionals think about cloud computing. Along the way, we're going to face seemingly impossible problems. We're going to argue about how to solve them, and we'll work together to find a data-driven solution that is superior to each of the proposals we came in with.
+
+Qualifications
+
+· PhD focused on Statistical/Machine Learning in Computer Science or Statistics or related disciplines with domain knowledge and experience in the following areas: Statistics, machine learning, data mining, optimization
+· 1+ years of hands-on experience in predictive modeling and analysis
+· 1+ years of C++ or Java development experience
+
+Preferred Qualifications
+
+· 3+ years of industry experience in predictive modeling and analysis
+· Experience with distributed computing
+· Proficient in SQL/Hive
+· Communication and data presentation skills
+· Problem solving ability
+· Experience with large data sets, experiment design and analysis

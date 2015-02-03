@@ -1,0 +1,18 @@
+As a Statistician/Engineering Analyst, you will evaluate and improve Google's products, such as Ads and Search. You will collaborate with a multi­disciplinary team of engineers and analysts on a wide range of problems. This position will bring analytical rigor and statistical methods to the challenges of measuring Search and Ads quality, improving consumer products, and understanding the behavior of end­users, advertisers, and publishers.
+Please note that this position is the same as Data Scientist.
+Responsibilities
+Research and develop methods for measuring and analyzing ads quality.
+Research new algorithms and methods for optimizing ads quality and revenue.
+Research new ways for modeling end user behavior through quant analysis.
+Lead investigations into multiple streams of ads quality data. Design experiments to answer targeted questions.
+Minimum qualifications
+MS in Computer Science or Statistics or equivalent practical experience.
+2 years experience in data analysis or related field.
+Experience with statistical software (R, S­Plus, SAS, or similar).
+Experience with databases and scripting languages (such as Python).
+Area
+Preferred qualifications
+PhD in Computer Science or Statistics Demonstrated leadership and self­direction.
+Ability to draw conclusions from data and recommend actions. Demonstrated willingness to both teach others and learn new techniques.
+￼￼￼￼￼￼￼￼Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to tackle some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large­scale applications and entirely new platforms for developers around the world. From
+AdWords to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.

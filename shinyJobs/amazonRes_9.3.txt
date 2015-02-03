@@ -1,0 +1,34 @@
+Job Description
+Amazon is looking for a motivated individual with software development and data science skills to join the Kindle Reading Analytics team. We are looking for a candidate with a passion for data and a demonstrated ability to dive deep. Data from millions of Kindle customers creates opportunities for Big Data analysis about how people engage with books as well as how their behavior changes over time. 
+
+The candidate will build models using this data to support the Kindle business and will work directly with product management to forecast trends and help design new products. The work would include projects such as: Determination of propensity for customers to use specific features, what factors influence customers join, stick with or leave the ecosystem, or how reading behavior can be used to improve book recommendations.
+
+We are looking for someone obsessed with impact. We don’t want someone that is just interested in finding patterns in the data. We want someone that understands how to turn those discoveries into value for our customers every day.
+
+Key Responsibilities
+Collaborate with product management, finance, and development teams
+Gather and manage large datasets from multiple sources.
+Data conditioning – transform data into a usable state using appropriate tools and techniques
+Use data science and ML techniques to build models that drive business decisions
+Understand and predict customer behavior in the aggregate and by segmentations
+Help define new experiments or products to address or capitalize on findings
+
+Basic Qualifications
+Experience diving into quantitative information
+Strong analytical skills, ability to summarize findings and present solutions
+Graduate degree in statistics, finance or quantitative social science
+Solid programming skills
+Practical experience in relevant machine learning and modeling techniques
+Real world experience with SQL
+Ability to effectively communicate with both business and technical teams
+High levels of integrity and discretion in handling confidential information
+
+
+Preferred Qualifications
+PhD degree in a quantitative field
+Demonstrated knowledge of forecasting and financial analysis
+Familiarity with Map Reduce, Hadoop, Hive, Spark, etc.
+Passion for digital technology and how it impacts the future of reading;
+Ambitious, career-focused candidates with a genuine desire to grow and develop fast
+
+https://en-amazon.icims.com/jobs/274129/research-data-scientist/job
